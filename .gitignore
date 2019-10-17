@@ -158,7 +158,7 @@ dmypy.json
 # Rope project settings
 
 # Mr Developer
-
+*/migrations/
 # mkdocs documentation
 
 # mypy
